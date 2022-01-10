@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\bin\Debug\WCFService_2Way_133.dll.config
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\bin\Debug\WCFService_2Way_133.dll
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\bin\Debug\WCFService_2Way_133.pdb
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\obj\Debug\WCFService_2Way_133.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\obj\Debug\WCFService_2Way_133.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\obj\Debug\WCFService_2Way_133.dll
+C:\Users\Lenovo\source\repos\WCFService_2Way_133\WCFService_2Way_133\obj\Debug\WCFService_2Way_133.pdb
